@@ -41,12 +41,6 @@ for i in range(len(changes)):
         continue
 
 
-print(total_change)     
-print(avg_change)
-print(max_change)
-print (min_change)
-print(max_month)
-print(min_month)
 
 
 print("Financial Analysis")
